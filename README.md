@@ -17,5 +17,6 @@ Analiza wyników sprzedażowych brazylijskiego e-commerce w celu identyfikacji k
 Zamiast obciążać model danych w Power BI setkami tysięcy wierszy z tabel faktów i wymiarów, cała ciężka logika biznesowa została zepchnięta do warstwy bazy danych. Wszelkie kalkulacje, filtrowanie oraz mapowanie słowników (pełne nazwy stanów i polskie tłumaczenia kategorii) wykonuje PostgreSQL. Power BI pobiera gotowe do wyświetlenia, zagregowane paczki danych.
 
 ## Dashboard
-<img width="1432" height="807" alt="Zrzut ekranu 2026-10-17 113229" src="https://github.com/user-attachments/assets/d2a2e4f5-86d6-42bd-af48-667927874aa0" />
+<img width="4100" height="2350" alt="analiza-sprzedazy-kraggle-brazylian-1" src="https://github.com/user-attachments/assets/a53b384e-63c6-4f03-adeb-e8c4cafb6894" />
+
 
